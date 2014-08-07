@@ -1,0 +1,22 @@
+ [
+  {
+  "title": "How to use",
+  "image": "tutorial",
+  "class": "WCTipsViewController"
+  },
+  {
+  "title": "Recommend the app",
+  "image": "recommend",
+  "class": "recommandTheAppTapped:"
+  },
+  {
+  "title": "Rate the app",
+  "image": "rate_the_app",
+  "class": "rateTheAppTapped:"
+  },
+  {
+  "title": "Contact us",
+  "image": "contact_us",
+  "class": "contactTheAppEamilTapped:"
+  } 
+  ]

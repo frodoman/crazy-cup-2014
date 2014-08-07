@@ -1,0 +1,147 @@
+/* 
+  Localizable.strings
+  WorldCup
+
+  Created by XH Liu on 10/06/2014.
+  Copyright (c) 2014 XH Liu. All rights reserved.
+*/
+
+"App Sharing Msg" = "这个世界杯应用很炫酷，快下来看看！ ";
+
+"Tips_0" = "点击查看更多内容。";
+"Tips_1" = "点击顶部返回主菜单。";
+"Tips_2" = "左右滑动更精彩。";
+"Tips_3" = "上下滑动可以查看更多内容。";
+"Tips_4" = "点击把比赛时间保存到手机日历。";
+
+//Main Footer info
+"Main Footer info" = "本程序由 XH Liu 在伦敦设计并开发 ";
+
+//buttons
+"Close" = "关闭";
+//message
+"Please wait..." = "请稍后...";
+"Last Updated:" = "更新时间：";
+"Unable to connect" = "网络无法连接. \n请稍后再试。";
+
+//Main Menus
+"World Cup 2014" = "世界杯 2014";
+"Matches" = "赛事";
+"Standings"="赛况统计";
+"Teams" = "参赛球队";
+"Locations" = "赛场指南";
+"More"="更多信息";
+
+//matches
+"Match" = "比赛";
+"Match Details"="比赛信息";
+"Add to Calendar"="日历提醒";
+"Remove"="删除";
+"Get Direction"="导航";
+"Showing Directions" = "显示路线";
+"You are about to leave this app."="将要关闭该程序，是否继续？";
+"Cancel"="否";
+"OK"="是";
+"Group Matches" = "小组赛";
+"Round 16 Matches" = "十六强赛事";
+"Quater Final Matches" ="八强赛事";
+"Semi Final Matches" = "四强赛事";
+"Third Place Match" = "季军争夺赛";
+"Final Match" = "冠军争夺赛";
+
+
+//More menu
+"How to use" = "使用说明";
+"Recommend the app"="推荐给好友";
+"Rate the app" ="给我评分";
+"Contact us" = "联系";
+
+//Teams
+"Group"="分组";
+"Favourited Teams" = "喜欢的球队";
+
+//Team names
+"Brazil" = "巴西";
+"Croatia"= "克罗地亚";
+"Mexico"= "墨西哥";
+"Cameroon"= "喀麦隆";
+"Spain"= "西班牙";
+"Netherlands"= "荷兰";
+"Chile"= "智利";
+"Australia"= "澳大利亚";
+"Colombia"= "哥伦比亚";
+"Greece"= "希腊";
+"Ivory Coast"= "象牙海岸";
+"Japan"= "日本";
+"Uruguay"= "乌拉圭";
+"Costa Rica"= "哥斯达黎加";
+"England"= "英格兰";
+"Italy"= "意大利";
+"Switzerland"= "瑞士";
+"Ecuador"= "厄瓜多尔";
+"France"= "法国";
+"Honduras"= "洪都拉斯";
+"Argentina"= "阿根廷";
+"Bosnia and Herzegovina"= "波斯尼亚和黑塞哥维那";
+"Iran"= "伊朗";
+"Nigeria"= "尼日利亚";
+"Germany"= "德国";
+"Portugal"= "葡萄牙";
+"Ghana"= "加纳";
+"United States"= "美国";
+"Belgium"= "比利时";
+"Algeria"= "阿尔及利亚";
+"Russia"= "俄罗斯";
+"South Korea"= "韩国";
+
+//Locations
+"Direction" = "导航";
+
+//city names
+"Arena da Amazônia"="亚马逊体育场";
+"Manaus"="马瑙斯";
+
+ "Arena Pantanal"="潘塔纳尔体育场";
+ "Cuiabá"="库亚巴";
+ 
+ "Estádio do Maracanã"="马拉卡纳体育场";
+ "Rio de Janeiro"="里约热内卢";
+
+ "Arena Corinthians"="圣保罗体育场";
+ "São Paulo"="圣保罗";
+
+ "Estádio Nacional Mané Garrincha"="巴西利亚国家体育场";
+ "Brasília"="巴西利亚";
+
+ "Estádio Castelão"="卡斯特劳体育场";
+ "Fortaleza"="福塔雷萨";
+
+ "Estádio Mineirão"="米内罗体育场";
+ "Belo Horizonte"="贝洛奥里藏特";
+
+ "Estádio Beira-Rio"="河岸球场";
+  "Porto Alegre"="阿雷格里港";
+
+ "Arena Fonte Nova"="新水源体育场";
+ "Salvador"="萨尔瓦多";
+
+ "Arena Pernambuco"="伯南布哥体育场";
+ "Recife"="累西腓";
+
+ "Arena das Dunas"="沙丘球场";
+  "Natal"="纳塔尔";
+
+ "Arena da Baixada"="拜沙达体育场";
+ "Curitiba"="库里奇巴";
+
+//Group Results
+"Group Results" = "小组赛统计";
+"Played" = " 已赛";
+"Won" = "  赢";
+"Drawn" = "   平";
+"Lost" = " 输";
+"Goals for" = "进球";
+"Goals Against" = "被进球";
+"Goals Difference" = "净进球";
+"Points" = "  得分";
+

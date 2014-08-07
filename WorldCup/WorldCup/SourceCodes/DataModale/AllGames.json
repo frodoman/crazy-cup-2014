@@ -1,0 +1,1188 @@
+{
+    "allGames":
+    {
+        "startTime":
+        {
+            "timeZone": -3,
+            "time":"20140612, 15:00"
+        },
+        "lastUpdated":
+        {
+            "timeZone": 1,
+            "time":"20140625, 10:34"
+        },
+        
+        "groupGames":
+        [
+         {
+         "matchID": 1,
+         "status": "Done",
+         "location": {
+         "city": "São Paulo"
+         },
+         "startTime": {
+         "time": "20140612, 17:00",
+         "timeZone": -3
+         },
+         "teamA":{
+         "name":"Brazil",
+         },
+         "teamB":{
+         "name":"Croatia",
+         },
+         "goalsA":3,
+         "goalsB":1
+         },
+         {
+         "matchID":2,
+         "status": "Done",
+         "location": {
+         "city": "Natal"
+         },
+         "startTime": {
+         "time": "20140613, 13:00"
+         },
+         "teamA":{
+         "name":"Mexico",
+         },
+         "teamB":{
+         "name":"Cameroon",
+         },
+         "goalsA":1,
+         "goalsB":0
+         },
+         {
+         "matchID":3,
+         "status": "Done",
+         "location": {
+         "city": "Salvador"
+         },
+         "startTime": {
+         "time": "20140613, 16:00"
+         },
+         "teamA":{
+         "name":"Spain",
+         },
+         "teamB":{
+         "name":"Netherlands",
+         },
+         "goalsA":1,
+         "goalsB":5
+         },
+         {
+         "matchID":4,
+         "status": "Done",
+         "location": {
+         "city": "Cuiabá"
+         },
+         "startTime": {
+         "time": "20140613, 19:00"
+         },
+         "teamA":{
+         "name":"Chile",
+         },
+         "teamB":{
+         "name":"Australia",
+         },
+         "goalsA":3,
+         "goalsB":1
+         },
+         {
+         "matchID":5,
+         "status": "Done",
+         "location": {
+         "city": "Belo Horizonte"
+         },
+         "startTime": {
+         "time": "20140614, 13:00"
+         },
+         "teamA":{
+         "name":"Colombia",
+         },
+         "teamB":{
+         "name":"Greece",
+         },
+         "goalsA":3,
+         "goalsB":0
+         },
+         {
+         "matchID":6,
+         "status": "Done",
+         "location": {
+         "city": "Recife"
+         },
+         "startTime": {
+         "time": "20140614, 22:00"
+         },
+         "teamA":{
+         "name":"Ivory Coast",
+         },
+         "teamB":{
+         "name":"Japan",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":7,
+         "status": "Done",
+         "location": {
+         "city": "Fortaleza"
+         },
+         "startTime": {
+         "time": "20140614, 16:00"
+         },
+         "teamA":{
+         "name":"Uruguay",
+         },
+         "teamB":{
+         "name":"Costa Rica",
+         },
+         "goalsA":1,
+         "goalsB":3
+         },
+         {
+         "matchID":8,
+         "status": "Done",
+         "location": {
+         "city": "Manaus"
+         },
+         "startTime": {
+         "time": "20140614, 19:00"
+         },
+         "teamA":{
+         "name":"England",
+         },
+         "teamB":{
+         "name":"Italy",
+         },
+         "goalsA":1,
+         "goalsB":2
+         },
+         {
+         "matchID":9,
+         "status": "Done",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140615, 13:00"
+         },
+         "teamA":{
+         "name":"Switzerland",
+         },
+         "teamB":{
+         "name":"Ecuador",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":10,
+         "status": "Done",
+         "location": {
+         "city": "Porto Alegre"
+         },
+         "startTime": {
+         "time": "20140615, 16:00"
+         },
+         "teamA":{
+         "name":"France",
+         },
+         "teamB":{
+         "name":"Honduras",
+         },
+         "goalsA":3,
+         "goalsB":0
+         },
+         {
+         "matchID":11,
+         "status": "Done",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140615, 19:00"
+         },
+         "teamA":{
+         "name":"Argentina",
+         },
+         "teamB":{
+         "name":"Bosnia and Herzegovina",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":12,
+         "status": "Done",
+         "location": {
+         "city": "Curitiba"
+         },
+         "startTime": {
+         "time": "20140616, 16:00"
+         },
+         "teamA":{
+         "name":"Iran",
+         },
+         "teamB":{
+         "name":"Nigeria",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":13,
+         "status": "Done",
+         "location": {
+         "city": "Salvador"
+         },
+         "startTime": {
+         "time": "20140616, 13:00"
+         },
+         "teamA":{
+         "name":"Germany",
+         },
+         "teamB":{
+         "name":"Portugal",
+         },
+         "goalsA":4,
+         "goalsB":0
+         },
+         {
+         "matchID":14,
+         "status": "Done",
+         "location": {
+         "city": "Natal"
+         },
+         "startTime": {
+         "time": "20140616, 19:00"
+         },
+         "teamA":{
+         "name":"Ghana",
+         },
+         "teamB":{
+         "name":"United States",
+         },
+         "goalsA":1,
+         "goalsB":2
+         },
+         {
+         "matchID":15,
+         "status": "Done",
+         "location": {
+         "city": "Belo Horizonte"
+         },
+         "startTime": {
+         "time": "20140617, 13:00"
+         },
+         "teamA":{
+         "name":"Belgium",
+         },
+         "teamB":{
+         "name":"Algeria",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":16,
+         "status": "Done",
+         "location": {
+         "city": "Cuiabá"
+         },
+         "startTime": {
+         "time": "20140617, 19:00"
+         },
+         "teamA":{
+         "name":"Russia",
+         },
+         "teamB":{
+         "name":"South Korea",
+         },
+         "goalsA":1,
+         "goalsB":1
+         },
+         {
+         "matchID":17,
+         "status": "Done",
+         "location": {
+         "city": "Fortaleza"
+         },
+         "startTime": {
+         "time": "20140617, 16:00"
+         },
+         "teamA":{
+         "name":"Brazil",
+         },
+         "teamB":{
+         "name":"Mexico",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":18,
+         "status": "Done",
+         "location": {
+         "city": "Manaus"
+         },
+         "startTime": {
+         "time": "20140618, 19:00"
+         },
+         "teamA":{
+         "name":"Cameroon",
+         },
+         "teamB":{
+         "name":"Croatia",
+         },
+         "goalsA":0,
+         "goalsB":4
+         },
+         {
+         "matchID":19,
+         "status": "Done",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140618, 16:00"
+         },
+         "teamA":{
+         "name":"Spain",
+         },
+         "teamB":{
+         "name":"Chile",
+         },
+         "goalsA":0,
+         "goalsB":2
+         },
+         {
+         "matchID":20,
+         "status": "Done",
+         "location": {
+         "city": "Porto Alegre"
+         },
+         "startTime": {
+         "time": "20140618, 13:00"
+         },
+         "teamA":{
+         "name":"Australia",
+         },
+         "teamB":{
+         "name":"Netherlands",
+         },
+         "goalsA":2,
+         "goalsB":3
+         },
+         {
+         "matchID":21,
+         "status": "Done",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140619, 13:00"
+         },
+         "teamA":{
+         "name":"Colombia",
+         },
+         "teamB":{
+         "name":"Ivory Coast",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":22,
+         "status": "Done",
+         "location": {
+         "city": "Natal"
+         },
+         "startTime": {
+         "time": "20140619, 19:00"
+         },
+         "teamA":{
+         "name":"Japan",
+         },
+         "teamB":{
+         "name":"Greece",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":23,
+         "status": "Done",
+         "location": {
+         "city": "São Paulo"
+         },
+         "startTime": {
+         "time": "20140619, 16:00"
+         },
+         "teamA":{
+         "name":"Uruguay",
+         },
+         "teamB":{
+         "name":"England",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":24,
+         "status": "Done",
+         "location": {
+         "city": "Recife"
+         },
+         "startTime": {
+         "time": "20140620, 13:00"
+         },
+         "teamA":{
+         "name":"Italy",
+         },
+         "teamB":{
+         "name":"Costa Rica",
+         },
+         "goalsA":0,
+         "goalsB":1
+         },
+         {
+         "matchID":25,
+         "status": "Done",
+         "location": {
+         "city": "Salvador"
+         },
+         "startTime": {
+         "time": "20140620, 16:00"
+         },
+         "teamA":{
+         "name":"Switzerland",
+         },
+         "teamB":{
+         "name":"France",
+         },
+         "goalsA":2,
+         "goalsB":5
+         },
+         {
+         "matchID":26,
+         "status": "Done",
+         "location": {
+         "city": "Curitiba"
+         },
+         "startTime": {
+         "time": "20140620, 19:00"
+         },
+         "teamA":{
+         "name":"Honduras",
+         },
+         "teamB":{
+         "name":"Ecuador",
+         },
+         "goalsA":1,
+         "goalsB":2
+         },
+         {
+         "matchID":27,
+         "status": "Done",
+         "location": {
+         "city": "Belo Horizonte"
+         },
+         "startTime": {
+         "time": "20140621, 13:00"
+         },
+         "teamA":{
+         "name":"Argentina",
+         },
+         "teamB":{
+         "name":"Iran",
+         },
+         "goalsA":1,
+         "goalsB":0
+         },
+         {
+         "matchID":28,
+         "status": "Done",
+         "location": {
+         "city": "Cuiabá"
+         },
+         "startTime": {
+         "time": "20140621, 19:00"
+         },
+         "teamA":{
+         "name":"Nigeria",
+         },
+         "teamB":{
+         "name":"Bosnia and Herzegovina",
+         },
+         "goalsA":1,
+         "goalsB":0
+         },
+         {
+         "matchID":29,
+         "status": "Done",
+         "location": {
+         "city": "Fortaleza"
+         },
+         "startTime": {
+         "time": "20140621, 16:00"
+         },
+         "teamA":{
+         "name":"Germany",
+         },
+         "teamB":{
+         "name":"Ghana",
+         },
+         "goalsA":2,
+         "goalsB":2
+         },
+         {
+         "matchID":30,
+         "status": "Done",
+         "location": {
+         "city": "Manaus"
+         },
+         "startTime": {
+         "time": "20140622, 19:00"
+         },
+         "teamA":{
+         "name":"United States",
+         },
+         "teamB":{
+         "name":"Portugal",
+         },
+         "goalsA":2,
+         "goalsB":2
+         },
+         {
+         "matchID":31,
+         "status": "Done",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140622, 13:00"
+         },
+         "teamA":{
+         "name":"Belgium",
+         },
+         "teamB":{
+         "name":"Russia",
+         },
+         "goalsA":1,
+         "goalsB":0
+         },
+         {
+         "matchID":32,
+         "status": "Done",
+         "location": {
+         "city": "Porto Alegre"
+         },
+         "startTime": {
+         "time": "20140622, 16:00"
+         },
+         "teamA":{
+         "name":"South Korea",
+         },
+         "teamB":{
+         "name":"Algeria",
+         },
+         "goalsA":2,
+         "goalsB":4
+         },
+         {
+         "matchID":33,
+         "status": "Done",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140623, 17:00"
+         },
+         "teamA":{
+         "name":"Cameroon",
+         },
+         "teamB":{
+         "name":"Brazil",
+         },
+         "goalsA":1,
+         "goalsB":4
+         },
+         {
+         "matchID":34,
+         "status": "Done",
+         "location": {
+         "city": "Recife"
+         },
+         "startTime": {
+         "time": "20140623, 17:00"
+         },
+         "teamA":{
+         "name":"Croatia",
+         },
+         "teamB":{
+         "name":"Mexico",
+         },
+         "goalsA":1,
+         "goalsB":3
+         },
+         {
+         "matchID":35,
+         "status": "Done",
+         "location": {
+         "city": "Curitiba"
+         },
+         "startTime": {
+         "time": "20140623, 13:00"
+         },
+         "teamA":{
+         "name":"Australia",
+         },
+         "teamB":{
+         "name":"Spain",
+         },
+         "goalsA":0,
+         "goalsB":3
+         },
+         {
+         "matchID":36,
+         "status": "Done",
+         "location": {
+         "city": "São Paulo"
+         },
+         "startTime": {
+         "time": "20140623, 13:00"
+         },
+         "teamA":{
+         "name":"Netherlands",
+         },
+         "teamB":{
+         "name":"Chile",
+         },
+         "goalsA":2,
+         "goalsB":0
+         },
+         {
+         "matchID":37,
+         "status": "Done",
+         "location": {
+         "city": "Cuiabá"
+         },
+         "startTime": {
+         "time": "20140624, 17:00"
+         },
+         "teamA":{
+         "name":"Japan",
+         },
+         "teamB":{
+         "name":"Colombia",
+         },
+         "goalsA":1,
+         "goalsB":4
+         },
+         {
+         "matchID":38,
+         "status": "Done",
+         "location": {
+         "city": "Fortaleza"
+         },
+         "startTime": {
+         "time": "20140624, 17:00"
+         },
+         "teamA":{
+         "name":"Greece",
+         },
+         "teamB":{
+         "name":"Ivory Coast",
+         },
+         "goalsA":2,
+         "goalsB":1
+         },
+         {
+         "matchID":39,
+         "status": "Done",
+         "location": {
+         "city": "Natal"
+         },
+         "startTime": {
+         "time": "20140624, 13:00"
+         },
+         "teamA":{
+         "name":"Italy",
+         },
+         "teamB":{
+         "name":"Uruguay",
+         },
+         "goalsA":0,
+         "goalsB":1
+         },
+         {
+         "matchID":40,
+         "status": "Done",
+         "location": {
+         "city": "Belo Horizonte"
+         },
+         "startTime": {
+         "time": "20140624, 13:00"
+         },
+         "teamA":{
+         "name":"Costa Rica",
+         },
+         "teamB":{
+         "name":"England",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":41,
+         "status": "NotOn",
+         "location": {
+         "city": "Manaus"
+         },
+         "startTime": {
+         "time": "20140625, 17:00"
+         },
+         "teamA":{
+         "name":"Honduras",
+         },
+         "teamB":{
+         "name":"Switzerland",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":42,
+         "status": "NotOn",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140625, 17:00"
+         },
+         "teamA":{
+         "name":"Ecuador",
+         },
+         "teamB":{
+         "name":"France",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":43,
+         "status": "NotOn",
+         "location": {
+         "city": "Porto Alegre"
+         },
+         "startTime": {
+         "time": "20140625, 13:00"
+         },
+         "teamA":{
+         "name":"Nigeria",
+         },
+         "teamB":{
+         "name":"Argentina",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":44,
+         "status": "NotOn",
+         "location": {
+         "city": "Salvador"
+         },
+         "startTime": {
+         "time": "20140625, 13:00"
+         },
+         "teamA":{
+         "name":"Bosnia and Herzegovina",
+         },
+         "teamB":{
+         "name":"Iran",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":45,
+         "status": "NotOn",
+         "location": {
+         "city": "Recife"
+         },
+         "startTime": {
+         "time": "20140626, 13:00"
+         },
+         "teamA":{
+         "name":"United States",
+         },
+         "teamB":{
+         "name":"Germany",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":46,
+         "status": "NotOn",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140626, 13:00"
+         },
+         "teamA":{
+         "name":"Portugal",
+         },
+         "teamB":{
+         "name":"Ghana",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":47,
+         "status": "NotOn",
+         "location": {
+         "city": "São Paulo"
+         },
+         "startTime": {
+         "time": "20140626, 17:00"
+         },
+         "teamA":{
+         "name":"South Korea",
+         },
+         "teamB":{
+         "name":"Belgium",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID":48,
+         "status": "NotOn",
+         "location": {
+         "city": "Curitiba"
+         },
+         "startTime": {
+         "time": "20140626, 17:00"
+         },
+         "teamA":{
+         "name":"Algeria",
+         },
+         "teamB":{
+         "name":"Russia",
+         },
+         "goalsA":0,
+         "goalsB":0
+         }
+         ],
+        
+        "roundOf16Games":
+        [
+         {
+         "matchID": 49,
+         "status": "NotOn",
+         "location": {
+         "city": "Belo Horizonte"
+         },
+         "startTime": {
+         "time": "20140628, 13:00"
+         },
+         "teamA":{
+         "name":"Winner Group A",
+         },
+         "teamB":{
+         "name":"Runner-up Group B",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 50,
+         "status": "NotOn",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140628, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Group C",
+         },
+         "teamB":{
+         "name":"Runner-up Group D",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 51,
+         "status": "NotOn",
+         "location": {
+         "city": "Fortaleza"
+         },
+         "startTime": {
+         "time": "20140629, 13:00"
+         },
+         "teamA":{
+         "name":"Winner Group B",
+         },
+         "teamB":{
+         "name":"Runner-up Group A",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 52,
+         "status": "NotOn",
+         "location": {
+         "city": "Recife"
+         },
+         "startTime": {
+         "time": "20140629, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Group D",
+         },
+         "teamB":{
+         "name":"Runner-up Group C",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 53,
+         "status": "NotOn",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140630, 13:00"
+         },
+         "teamA":{
+         "name":"Winner Group E",
+         },
+         "teamB":{
+         "name":"Runner-up Group F",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 54,
+         "status": "On",
+         "location": {
+         "city": "Porto Alegre"
+         },
+         "startTime": {
+         "time": "20140630, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Group G",
+         },
+         "teamB":{
+         "name":"Runner-up Group H",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 55,
+         "status": "NotOn",
+         "location": {
+         "city": "São Paulo"
+         },
+         "startTime": {
+         "time": "20140701, 13:00"
+         },
+         "teamA":{
+         "name":"Winner Group F",
+         },
+         "teamB":{
+         "name":"Runner-up Group E",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 56,
+         "status": "NotOn",
+         "location": {
+         "city": "Salvador"
+         },
+         "startTime": {
+         "time": "20140701, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Group H",
+         },
+         "teamB":{
+         "name":"Runner-up Group G",
+         },
+         "goalsA":0,
+         "goalsB":0
+         }
+         ],
+        "quarterGames":
+        [
+         {
+         "matchID": 58,
+         "status": "NotOn",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140704, 13:00"
+         },
+         "teamA":{
+         "name":"Winner Match 53",
+         },
+         "teamB":{
+         "name":"Winner Match 54",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 57,
+         "status": "NotOn",
+         "location": {
+         "city": "Fortaleza"
+         },
+         "startTime": {
+         "time": "20140704, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Match 49",
+         },
+         "teamB":{
+         "name":"Winner Match 50",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 60,
+         "status": "On",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140705, 13:00"
+         },
+         "teamA":{
+         "name":"Winner Match 55",
+         },
+         "teamB":{
+         "name":"Winner Match 56",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 59,
+         "status": "NotOn",
+         "location": {
+         "city": "Salvador"
+         },
+         "startTime": {
+         "time": "20140705, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Match 51",
+         },
+         "teamB":{
+         "name":"Winner Match 52",
+         },
+         "goalsA":0,
+         "goalsB":0
+         }
+         ],
+        "semiGames":
+        [
+         {
+         "matchID": 61,
+         "status": "NotOn",
+         "location": {
+         "city": "Belo Horizonte"
+         },
+         "startTime": {
+         "time": "20140708, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Match 57",
+         },
+         "teamB":{
+         "name":"Winner Match 58",
+         },
+         "goalsA":0,
+         "goalsB":0
+         },
+         {
+         "matchID": 62,
+         "status": "NotOn",
+         "location": {
+         "city": "São Paulo"
+         },
+         "startTime": {
+         "time": "20140709, 17:00"
+         },
+         "teamA":{
+         "name":"Winner Match 59",
+         },
+         "teamB":{
+         "name":"Winner Match 60",
+         },
+         "goalsA":0,
+         "goalsB":0
+         }
+         ],
+        "thirdGame":
+        [
+         {
+         "matchID": 63,
+         "status": "NotOn",
+         "location": {
+         "city": "Brasília"
+         },
+         "startTime": {
+         "time": "20140712, 17:00"
+         },
+         "teamA":{
+         "name":"Loser In Match 61",
+         },
+         "teamB":{
+         "name":"Loser In Match 62",
+         },
+         "goalsA":0,
+         "goalsB":0
+         }
+         ],
+        "finalGame":
+        [
+         {
+         "matchID": 64,
+         "status": "NotOn",
+         "location": {
+         "city": "Rio de Janeiro"
+         },
+         "startTime": {
+         "time": "20140713, 16:00"
+         },
+         "teamA":{
+         "name":"Winner In Match 61",
+         },
+         "teamB":{
+         "name":"Winner In Match 62",
+         },
+         "goalsA":0,
+         "goalsB":0
+         }
+         ]
+    }
+}

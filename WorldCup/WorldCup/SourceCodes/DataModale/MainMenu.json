@@ -1,0 +1,28 @@
+[
+ {
+    "title": "Matches",
+    "image": "matches",
+    "class": "WCMatchesViewController"
+ },
+ {
+ "title": "Standings",
+ "image": "results",
+ "class": "WCResultsViewController"
+ },
+ {
+ "title": "Teams",
+ "image": "teams",
+ "class": "WCMyTeamsViewController"
+ },
+ {
+ "title": "Locations",
+ "image": "locations",
+ "class": "WCLocationViewController"
+ },
+ {
+ "title": "More",
+ "image": "more",
+ "class": "WCInfoViewController"
+ }
+]
+ 

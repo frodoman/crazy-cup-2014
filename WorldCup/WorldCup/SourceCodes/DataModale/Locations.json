@@ -1,0 +1,88 @@
+[
+ {
+    "stadium":"Arena da Amazônia",
+    "city": "Manaus",
+    "latitude":-3.082993,
+    "longitude":-60.028106,
+    "timeZone": -4
+ },
+ {
+   "stadium":"Arena Pantanal",
+    "city": "Cuiabá",
+    "latitude":-15.603575,
+    "longitude":-56.121597,
+    "timeZone":-4
+ },
+ {
+ "stadium":"Estádio do Maracanã",
+ "city": "Rio de Janeiro",
+ "latitude":-22.911815,
+ "longitude":-43.230101,
+ "timeZone":-3
+ },
+ 
+ {
+ "stadium":"Arena Corinthians",
+ "city": "São Paulo",
+ "latitude":-23.545022,
+ "longitude":-46.474241,
+ "timeZone": -3
+ },
+ 
+ {
+ "stadium":"Estádio Nacional Mané Garrincha",
+ "city": "Brasília",
+ "latitude":-15.783225,
+ "longitude":-47.899179,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Estádio Castelão",
+ "city": "Fortaleza",
+ "latitude":-3.806979,
+ "longitude":-38.522370,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Estádio Mineirão",
+ "city": "Belo Horizonte",
+ "latitude":-19.865539,
+ "longitude":-43.971111,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Estádio Beira-Rio",
+ "city": "Porto Alegre",
+ "latitude":-30.065162,
+ "longitude":-51.235792,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Arena Fonte Nova",
+ "city": "Salvador",
+ "latitude":-12.978526,
+ "longitude":-38.504339,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Arena Pernambuco",
+ "city": "Recife",
+ "latitude":-8.040379,
+ "longitude":-35.008184,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Arena das Dunas",
+ "city": "Natal",
+ "latitude":-5.826532,
+ "longitude":-35.212390,
+ "timeZone":-3
+ },
+ {
+ "stadium":"Arena da Baixada",
+ "city": "Curitiba",
+ "latitude":-25.447907,
+ "longitude":-49.277019,
+ "timeZone":-3
+ }
+ ]

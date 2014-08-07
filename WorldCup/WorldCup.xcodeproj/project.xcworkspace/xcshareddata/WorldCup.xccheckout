@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6CC1BDBE-A846-4191-BE80-59F0947BE893</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WorldCup</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CC652ED-0E1D-4821-B776-3DEC7047795F</key>
+		<string>https://github.com/frodoman/crazy-cup-2014.git</string>
+		<key>EE994B0D-E543-451D-B366-775400B5F433</key>
+		<string>https://bitbucket.org/frodo_man/ios-world-cup.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WorldCup/WorldCup.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CC652ED-0E1D-4821-B776-3DEC7047795F</key>
+		<string>../../..</string>
+		<key>EE994B0D-E543-451D-B366-775400B5F433</key>
+		<string>../../../../../../Downloads/ios-world-cup</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/frodoman/crazy-cup-2014.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CC652ED-0E1D-4821-B776-3DEC7047795F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CC652ED-0E1D-4821-B776-3DEC7047795F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>crazy-cup-2014</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE994B0D-E543-451D-B366-775400B5F433</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-world-cup</string>
+		</dict>
+	</array>
+</dict>
+</plist>

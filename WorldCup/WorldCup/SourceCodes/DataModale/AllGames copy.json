@@ -1,0 +1,1121 @@
+{
+"allGames":
+    {
+        "startTime":
+            {
+                "timeZone": -3,
+                "time":"20140612, 15:00"
+            },
+        "endTime":
+        {
+            "timeZone": -3,
+            "time":"20140713, 21:00"
+        },
+        
+        "groupGames":
+        [
+            {
+            "matchID": 1,
+            "location": {
+                            "city": "São Paulo"
+                        },
+            "startTime": {
+                            "time": "20140612, 17:00"
+                         },
+            "teamA":{
+                        "name":"Brazil",
+                    },
+            "tameB":{
+                        "name":"Croatia",
+                    },
+             "goalsA":0,
+             "goalsB":0
+            },
+             {
+             "matchID":2,
+             "location": {
+             "city": "Natal"
+             },
+             "startTime": {
+             "time": "20140613, 13:00"
+             },
+             "teamA":{
+             "name":"Mexico",
+             },
+             "tameB":{
+             "name":"Cameroon",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":3,
+             "location": {
+             "city": "Salvador"
+             },
+             "startTime": {
+             "time": "20140613, 16:00"
+             },
+             "teamA":{
+             "name":"Spain",
+             },
+             "tameB":{
+             "name":"Netherlands",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":4,
+             "location": {
+             "city": "Cuiabá"
+             },
+             "startTime": {
+             "time": "20140613, 19:00"
+             },
+             "teamA":{
+             "name":"Chile",
+             },
+             "tameB":{
+             "name":"Australia",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":5,
+             "location": {
+             "city": "Belo Horizonte"
+             },
+             "startTime": {
+             "time": "20140614, 13:00"
+             },
+             "teamA":{
+             "name":"Colombia",
+             },
+             "tameB":{
+             "name":"Greece",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":6,
+             "location": {
+             "city": "Recife"
+             },
+             "startTime": {
+             "time": "20140614, 22:00"
+             },
+             "teamA":{
+             "name":"Ivory Coast",
+             },
+             "tameB":{
+             "name":"Japan",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":7,
+             "location": {
+             "city": "Fortaleza"
+             },
+             "startTime": {
+             "time": "20140614, 16:00"
+             },
+             "teamA":{
+             "name":"Uruguay",
+             },
+             "tameB":{
+             "name":"Costa Rica",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":8,
+             "location": {
+             "city": "Manaus"
+             },
+             "startTime": {
+             "time": "20140614, 19:00"
+             },
+             "teamA":{
+             "name":"England",
+             },
+             "tameB":{
+             "name":"Italy",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID":9,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": ,
+             "location": {
+             "city": " "
+             },
+             "startTime": {
+             "time": " "
+             },
+             "teamA":{
+             "name":" ",
+             },
+             "tameB":{
+             "name":" ",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+        ],
+        
+        "roundOf16Games":
+        [
+             {
+             "matchID": 49,
+             "location": {
+             "city": "Belo Horizonte"
+             },
+             "startTime": {
+             "time": "20140628, 13:00"
+             },
+             "teamA":{
+             "name":"Winner Group A",
+             },
+             "tameB":{
+             "name":"Runner-up Group B",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 50,
+             "location": {
+             "city": "Rio de Janeiro"
+             },
+             "startTime": {
+             "time": "20140628, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Group C",
+             },
+             "tameB":{
+             "name":"Runner-up Group D",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 51,
+             "location": {
+             "city": "Fortaleza"
+             },
+             "startTime": {
+             "time": "20140629, 13:00"
+             },
+             "teamA":{
+             "name":"Winner Group B",
+             },
+             "tameB":{
+             "name":"Runner-up Group A",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 52,
+             "location": {
+             "city": "Recife"
+             },
+             "startTime": {
+             "time": "20140629, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Group D",
+             },
+             "tameB":{
+             "name":"Runner-up Group C",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+             {
+             "matchID": 53,
+             "location": {
+             "city": "Brasília"
+             },
+             "time": "20140630, 13:00"
+             },
+             "teamA":{
+             "name":"Winner Group E",
+             },
+             "tameB":{
+             "name":"Runner-up Group F",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 54,
+             "location": {
+             "city": "Porto Alegre"
+             },
+             "time": "20140630, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Group G",
+             },
+             "tameB":{
+             "name":"Runner-up Group H",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 55,
+             "location": {
+             "city": "São Paulo"
+             },
+             "startTime": {
+             "time": "20140701, 13:00"
+             },
+             "teamA":{
+             "name":"Winner Group F",
+             },
+             "tameB":{
+             "name":"Runner-up Group E",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 56,
+             "location": {
+             "city": "Salvador"
+             },
+             "startTime": {
+             "time": "20140701, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Group H",
+             },
+             "tameB":{
+             "name":"Runner-up Group G",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+        ],
+        "quarterGames":
+        [
+             {
+             "matchID": 58,
+             "location": {
+             "city": "Rio de Janeiro"
+             },
+             "startTime": {
+             "time": "20140704, 13:00"
+             },
+             "teamA":{
+             "name":"Winner Match 53",
+             },
+             "tameB":{
+             "name":"Winner Match 54",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 57,
+             "location": {
+             "city": "Fortaleza"
+             },
+             "startTime": {
+             "time": "20140704, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Match 49",
+             },
+             "tameB":{
+             "name":"Winner Match 50",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 60,
+             "location": {
+             "city": "Brasília"
+             },
+             "startTime": {
+             "time": "20140705, 13:00"
+             },
+             "teamA":{
+             "name":"Winner Match 55",
+             },
+             "tameB":{
+             "name":"Winner Match 56",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 59,
+             "location": {
+             "city": "Salvador"
+             },
+             "startTime": {
+             "time": "20140705, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Match 51",
+             },
+             "tameB":{
+             "name":"Winner Match 52",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+        ],
+        "semiGames":
+        [
+             {
+             "matchID": 61,
+             "location": {
+             "city": "Belo Horizonte"
+             },
+             "startTime": {
+             "time": "20140708, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Match 57",
+             },
+             "tameB":{
+             "name":"Winner Match 58",
+             },
+             "goalsA":0,
+             "goalsB":0
+             },
+             {
+             "matchID": 62,
+             "location": {
+             "city": "São Paulo"
+             },
+             "startTime": {
+             "time": "20140709, 17:00"
+             },
+             "teamA":{
+             "name":"Winner Match 59",
+             },
+             "tameB":{
+             "name":"Winner Match 60",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+        ],
+        "thirdGame":
+        [
+             {
+             "matchID": 63,
+             "location": {
+             "city": "Brasília"
+             },
+             "startTime": {
+             "time": "20140712, 17:00"
+             },
+             "teamA":{
+             "name":"Loser In Match 61",
+             },
+             "tameB":{
+             "name":"Loser In Match 62",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+        ],
+        "finalGame":
+        [
+             {
+             "matchID": 64,
+             "location": {
+             "city": "Rio de Janeiro"
+             },
+             "startTime": {
+             "time": "20140713, 16:00"
+             },
+             "teamA":{
+             "name":"Winner In Match 61",
+             },
+             "tameB":{
+             "name":"Winner In Match 62",
+             },
+             "goalsA":0,
+             "goalsB":0
+             }
+        ]
+    }
+}

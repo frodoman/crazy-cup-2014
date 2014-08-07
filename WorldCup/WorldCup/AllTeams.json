@@ -1,0 +1,225 @@
+[
+ {
+     "name":"Brazil",
+     "coach":"",
+     "imageFlag":"Brazil",
+     "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Croatia",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Mexico",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Cameroon",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Spain",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Netherlands",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Chile",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Australia",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Colombia",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Greece",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Ivory Coast",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Japan",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Uruguay",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Costa Rica",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"England",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Italy",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Switzerland",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Ecuador",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"France",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Honduras",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Argentina",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Bosnia and Herzegovina",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Iran",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Nigeria",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Germany",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Portugal",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Ghana",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"United States",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Belgium",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+
+ {
+ "name":"Algeria",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"Russia",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ },
+ 
+ {
+ "name":"South Korea",
+ "coach":"",
+ "image":"",
+ "dressImages":"1, 2, 3"
+ }
+]
