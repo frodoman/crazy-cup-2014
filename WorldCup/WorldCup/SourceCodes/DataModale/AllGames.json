@@ -18,7 +18,7 @@
          "matchID": 1,
          "status": "Done",
          "location": {
-         "city": "SÃ£o Paulo"
+         "city": "São Paulo"
          },
          "startTime": {
          "time": "20140612, 17:00",
@@ -73,7 +73,7 @@
          "matchID":4,
          "status": "Done",
          "location": {
-         "city": "CuiabÃ¡"
+         "city": "Cuiabá"
          },
          "startTime": {
          "time": "20140613, 19:00"
@@ -163,7 +163,7 @@
          "matchID":9,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140615, 13:00"
@@ -289,7 +289,7 @@
          "matchID":16,
          "status": "Done",
          "location": {
-         "city": "CuiabÃ¡"
+         "city": "Cuiabá"
          },
          "startTime": {
          "time": "20140617, 19:00"
@@ -379,7 +379,7 @@
          "matchID":21,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140619, 13:00"
@@ -415,7 +415,7 @@
          "matchID":23,
          "status": "Done",
          "location": {
-         "city": "SÃ£o Paulo"
+         "city": "São Paulo"
          },
          "startTime": {
          "time": "20140619, 16:00"
@@ -505,7 +505,7 @@
          "matchID":28,
          "status": "Done",
          "location": {
-         "city": "CuiabÃ¡"
+         "city": "Cuiabá"
          },
          "startTime": {
          "time": "20140621, 19:00"
@@ -595,7 +595,7 @@
          "matchID":33,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140623, 17:00"
@@ -649,7 +649,7 @@
          "matchID":36,
          "status": "Done",
          "location": {
-         "city": "SÃ£o Paulo"
+         "city": "São Paulo"
          },
          "startTime": {
          "time": "20140623, 13:00"
@@ -667,7 +667,7 @@
          "matchID":37,
          "status": "Done",
          "location": {
-         "city": "CuiabÃ¡"
+         "city": "Cuiabá"
          },
          "startTime": {
          "time": "20140624, 17:00"
@@ -829,7 +829,7 @@
          "matchID":46,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140626, 13:00"
@@ -847,7 +847,7 @@
          "matchID":47,
          "status": "Done",
          "location": {
-         "city": "SÃ£o Paulo"
+         "city": "São Paulo"
          },
          "startTime": {
          "time": "20140626, 17:00"
@@ -959,7 +959,7 @@
          "matchID": 53,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140630, 13:00"
@@ -995,7 +995,7 @@
          "matchID": 55,
          "status": "Done",
          "location": {
-         "city": "SÃ£o Paulo"
+         "city": "São Paulo"
          },
          "startTime": {
          "time": "20140701, 13:00"
@@ -1070,7 +1070,7 @@
          "matchID": 60,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140705, 13:00"
@@ -1127,7 +1127,7 @@
          "matchID": 62,
          "status": "Done",
          "location": {
-         "city": "SÃ£o Paulo"
+         "city": "São Paulo"
          },
          "startTime": {
          "time": "20140709, 17:00"
@@ -1148,7 +1148,7 @@
          "matchID": 63,
          "status": "Done",
          "location": {
-         "city": "BrasÃ­lia"
+         "city": "Brasília"
          },
          "startTime": {
          "time": "20140712, 17:00"
