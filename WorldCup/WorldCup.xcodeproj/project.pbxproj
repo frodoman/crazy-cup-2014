@@ -250,7 +250,6 @@
 		EAD66952192E3F9F00EF45C9 /* ILTranslucentView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD66951192E3F9F00EF45C9 /* ILTranslucentView.m */; };
 		EAD66955192F3DA800EF45C9 /* UIFont+WCFont.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD66954192F3DA800EF45C9 /* UIFont+WCFont.m */; };
 		EAD66958192F3E1900EF45C9 /* TradeGothicLTStd-Cn18.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAD66957192F3E1900EF45C9 /* TradeGothicLTStd-Cn18.ttf */; };
-		EAD66960192F506E00EF45C9 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAD6695F192F506E00EF45C9 /* iAd.framework */; };
 		EAEAE024193DE34400B27368 /* WCWaitingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAEAE022193DE34400B27368 /* WCWaitingViewController.m */; };
 		EAEAE025193DE34400B27368 /* WCWaitingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EAEAE023193DE34400B27368 /* WCWaitingViewController.xib */; };
 		EAEAE028193E129700B27368 /* tileMask2.png in Resources */ = {isa = PBXBuildFile; fileRef = EAEAE026193E129700B27368 /* tileMask2.png */; };
@@ -577,7 +576,6 @@
 				EA2064B61947313D00A90DFE /* Twitter.framework in Frameworks */,
 				EA2064B4194701FA00A90DFE /* MessageUI.framework in Frameworks */,
 				E7733500193AA1CC000E6739 /* MapKit.framework in Frameworks */,
-				EAD66960192F506E00EF45C9 /* iAd.framework in Frameworks */,
 				EAD0058B1913A22B006A024D /* QuartzCore.framework in Frameworks */,
 				EAD0053B19114D60006A024D /* CoreGraphics.framework in Frameworks */,
 				EAD0053D19114D60006A024D /* UIKit.framework in Frameworks */,
