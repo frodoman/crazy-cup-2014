@@ -12,7 +12,6 @@
 #import "WorldCup-Prefix.pch"
 #import "NSObject+Consts.h"
 #import "ILTranslucentView.h"
-#import "WCIAdViewController.h"
 #import "UIColor+WCColors.h"
 #import "WCWaitingViewController.h"
 
@@ -141,17 +140,6 @@
                                                     self.view.frame.size.height - iAdHeight );
     
     [self.view addSubview: self.mainMenuController.view ];
-    
-    if( showIAd)
-    {
-        self.iAdController = [[WCIAdViewController alloc] initWithDefaultNib];
-        self.iAdController.view.frame = CGRectMake(0,
-                                                   self.view.frame.size.height - kWCIAdViewHeight,
-                                                   self.view.frame.size.width,  kWCIAdViewHeight);
-        [self.view addSubview: self.iAdController.view];
-        self.iAdController.view.alpha = 0.0f;
-    }
-    
 }
 
 -(void)showIAdView
@@ -176,16 +164,6 @@
         return;
     }
     
-    if( showIAd)
-    {
-        self.iAdController = [[WCIAdViewController alloc] initWithDefaultNib];
-        self.iAdController.view.frame = CGRectMake(0,
-                                                   self.view.frame.size.height - kWCIAdViewHeight,
-                                                   self.view.frame.size.width,  kWCIAdViewHeight);
-        [self.view addSubview: self.iAdController.view];
-        self.iAdController.view.alpha = 0.0f;
-    }
-    
     CGRect mainViewFrame = self.mainMenuController.view.frame;
     self.mainMenuController.view.frame = CGRectMake(mainViewFrame.origin.x, mainViewFrame.origin.y,
                                                     mainViewFrame.size.width,
@@ -203,26 +181,7 @@
 
 -(void)animateToShowIAdView
 {
-    CGRect iAdFrame = self.iAdController.view.frame;
- 
-    
-    self.iAdController.view.frame = CGRectOffset(iAdFrame, 0, kWCIAdViewHeight);
-    
-    [UIView animateWithDuration: kWCAnimationDurationInSeconds1x
-                          delay:kWCAnimationDurationInSeconds4x
-                        options:UIViewAnimationOptionCurveEaseOut
-                     animations:^{
-                         self.iAdController.view.alpha =1.0f;
-                         self.iAdController.view.frame = iAdFrame;
-                        
-                     }
-                     completion:^(BOOL finished){
-                     if(finished)
-                     {
-                         self.showingIAdView = YES;
-                     }
-                     
-                     }];
+
 }
 
 -(void)startWaiting

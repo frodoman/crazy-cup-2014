@@ -250,8 +250,6 @@
 		EAD66952192E3F9F00EF45C9 /* ILTranslucentView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD66951192E3F9F00EF45C9 /* ILTranslucentView.m */; };
 		EAD66955192F3DA800EF45C9 /* UIFont+WCFont.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD66954192F3DA800EF45C9 /* UIFont+WCFont.m */; };
 		EAD66958192F3E1900EF45C9 /* TradeGothicLTStd-Cn18.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAD66957192F3E1900EF45C9 /* TradeGothicLTStd-Cn18.ttf */; };
-		EAD6695D192F4F3600EF45C9 /* WCIAdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD6695B192F4F3600EF45C9 /* WCIAdViewController.m */; };
-		EAD6695E192F4F3600EF45C9 /* WCIAdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EAD6695C192F4F3600EF45C9 /* WCIAdViewController.xib */; };
 		EAD66960192F506E00EF45C9 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAD6695F192F506E00EF45C9 /* iAd.framework */; };
 		EAEAE024193DE34400B27368 /* WCWaitingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAEAE022193DE34400B27368 /* WCWaitingViewController.m */; };
 		EAEAE025193DE34400B27368 /* WCWaitingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EAEAE023193DE34400B27368 /* WCWaitingViewController.xib */; };
@@ -557,9 +555,6 @@
 		EAD66953192F3DA800EF45C9 /* UIFont+WCFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIFont+WCFont.h"; path = "SourceCodes/Common/UIFont+WCFont.h"; sourceTree = "<group>"; };
 		EAD66954192F3DA800EF45C9 /* UIFont+WCFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIFont+WCFont.m"; path = "SourceCodes/Common/UIFont+WCFont.m"; sourceTree = "<group>"; };
 		EAD66957192F3E1900EF45C9 /* TradeGothicLTStd-Cn18.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TradeGothicLTStd-Cn18.ttf"; sourceTree = "<group>"; };
-		EAD6695A192F4F3600EF45C9 /* WCIAdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WCIAdViewController.h; sourceTree = "<group>"; };
-		EAD6695B192F4F3600EF45C9 /* WCIAdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCIAdViewController.m; sourceTree = "<group>"; };
-		EAD6695C192F4F3600EF45C9 /* WCIAdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WCIAdViewController.xib; sourceTree = "<group>"; };
 		EAD6695F192F506E00EF45C9 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
 		EAEAE021193DE34400B27368 /* WCWaitingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WCWaitingViewController.h; sourceTree = "<group>"; };
 		EAEAE022193DE34400B27368 /* WCWaitingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCWaitingViewController.m; sourceTree = "<group>"; };
@@ -1168,7 +1163,6 @@
 			isa = PBXGroup;
 			children = (
 				E77334F9193AA065000E6739 /* Location */,
-				EAD66959192F4F1E00EF45C9 /* iAd */,
 				EA0468CD192B6E9B002E20BB /* BaseClass */,
 				EA0468C3192B6E6E002E20BB /* HowToUse */,
 				EA0468C4192B6E6E002E20BB /* More */,
@@ -1217,17 +1211,6 @@
 				EAD66957192F3E1900EF45C9 /* TradeGothicLTStd-Cn18.ttf */,
 			);
 			path = Fonts;
-			sourceTree = "<group>";
-		};
-		EAD66959192F4F1E00EF45C9 /* iAd */ = {
-			isa = PBXGroup;
-			children = (
-				EAD6695A192F4F3600EF45C9 /* WCIAdViewController.h */,
-				EAD6695B192F4F3600EF45C9 /* WCIAdViewController.m */,
-				EAD6695C192F4F3600EF45C9 /* WCIAdViewController.xib */,
-			);
-			name = iAd;
-			path = ViewControllers/iAd;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1288,6 +1271,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 				"zh-Hans",
@@ -1376,7 +1360,6 @@
 				EA314C78191B8FA300E8DB60 /* Spain_logo.png in Resources */,
 				E788A2B0194A2B5E0093A305 /* recommend@2x.png in Resources */,
 				EA314C6D191B8FA300E8DB60 /* Honduras_logo.png in Resources */,
-				EAD6695E192F4F3600EF45C9 /* WCIAdViewController.xib in Resources */,
 				EAD2B218194061BC00CDBCA6 /* MoreMenuItems.json in Resources */,
 				EAD6693E192CF8EC00EF45C9 /* WCRateAppViewController.xib in Resources */,
 				EAEAE029193E129700B27368 /* tileMask2@2x.png in Resources */,
@@ -1552,7 +1535,6 @@
 				E7CEAB12193BBC5600E3AE34 /* UIView+Common.m in Sources */,
 				EAD6694E192DED0400EF45C9 /* WCTitleViewController.m in Sources */,
 				EAD66933192CF8A600EF45C9 /* WCNewsViewController.m in Sources */,
-				EAD6695D192F4F3600EF45C9 /* WCIAdViewController.m in Sources */,
 				EAD66942192CF90500EF45C9 /* WCRecommandAppViewController.m in Sources */,
 				EAD0057419114E7F006A024D /* WCDataEntities.m in Sources */,
 				EAD66924192CF80100EF45C9 /* WCMatchesViewController.m in Sources */,
